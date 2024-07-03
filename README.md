@@ -1,1 +1,1 @@
-# Data-Science-with-R
+This is a project under the Statistics and Mathematics society at IIT Kanpur - aimed at learning Data Science with R language. Topic such as Web scraping, data cleaning, dataset processing, dataset manipulation, visualization, plotting, image processing using libraries such as tidyverse, rvest, imager, MASS, txhousing, iris and ggplot2 etc. were covered.
